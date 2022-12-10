@@ -9,4 +9,4 @@ class Gamefield
 проверки (isShah(),isMat(),isPat())
 
 
-s
+sss
