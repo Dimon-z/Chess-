@@ -7,3 +7,6 @@ class Gamefield
 
 метод nextStep
 проверки (isShah(),isMat(),isPat())
+
+
+s
